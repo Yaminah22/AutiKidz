@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61133460044",
+    "firebase_url": "https://autikidz-758ec-default-rtdb.firebaseio.com",
+    "project_id": "autikidz-758ec",
+    "storage_bucket": "autikidz-758ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61133460044:android:e48da4beb2f312ab845ae9",
+        "android_client_info": {
+          "package_name": "com.AutiKidz.AutiKidz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61133460044-iebq7rbqpfl7pkftqcuijha3tlhs1kiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVgMeqqO_pnY8lmfodHwlh1vkQEa7N0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61133460044-iebq7rbqpfl7pkftqcuijha3tlhs1kiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
