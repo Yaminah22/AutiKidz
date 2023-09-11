@@ -9,6 +9,7 @@ Unity version used: 2021.3.11f1
 Firebase Autentication was used along with realtime database for saving player progress and authenticating them.
 
 A demo video of AutiKidz can be viewed here: https://drive.google.com/file/d/1jVoFUyCjUgVA0kf4ikJILsSXEjnz6jH6/view
+
 A preview of AutiKidz activities and UI is shown below: 
 
 ![main](https://github.com/Yaminah22/AutiKidz/assets/59056513/4b17a6ee-5508-4382-bf10-f042734b67ab)
